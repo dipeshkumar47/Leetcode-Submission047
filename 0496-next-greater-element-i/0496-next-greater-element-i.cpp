@@ -1,37 +1,35 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
+        
+        stack<int> st;
+        unordered_map<int, int> nge;
+        reverse(nums2.begin(), nums2.end());
 
-    stack<int> monotonicStack;
+        for(int curr_num: nums2){
+            
+            while(!st.empty() && st.top() < curr_num){
+                st.pop();
+            }
 
-    unordered_map<int, int> nextGreaterMap;
+            if(!st.empty()){
+                nge[curr_num] = st.top();
+            }
 
-    reverse(nums2.begin(), nums2.end());
-
-    for(int currentNum: nums2){
-
-        while(!monotonicStack.empty() && monotonicStack.top() < currentNum){
-            monotonicStack.pop();
+            st.push(curr_num);
         }
 
-        if(!monotonicStack.empty()){
-            nextGreaterMap[currentNum] = monotonicStack.top();
+        vector<int> res;
+
+        for(int curr: nums1){
+            if( nge.find(curr) != nge.end()){
+                res.push_back(nge[curr]);
+            }
+            else{
+                res.push_back(-1);
+            }
         }
 
-        monotonicStack.push(currentNum);
-    }
-
-    vector<int> result;
-
-    for(int num: nums1){
-        if(nextGreaterMap.find(num) != nextGreaterMap.end()){
-            result.push_back(nextGreaterMap[num]);
-        }
-        else{
-            result.push_back(-1);
-        }
-    }
-
-        return result;
+        return res;
     }
 };
