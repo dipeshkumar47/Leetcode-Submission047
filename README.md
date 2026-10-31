@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0020-valid-parentheses) |
 | [2409-count-days-spent-together](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/2409-count-days-spent-together) |
 ## Array
 |  |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0056-merge-intervals) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
