@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0056-merge-intervals) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
