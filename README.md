@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0056-merge-intervals) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -42,8 +43,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0055-jump-game) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0055-jump-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
