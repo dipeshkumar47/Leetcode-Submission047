@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0020-valid-parentheses) |
 | [2409-count-days-spent-together](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/2409-count-days-spent-together) |
 ## Array
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0055-jump-game) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
