@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0010-regular-expression-matching) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0020-valid-parentheses) |
 | [2409-count-days-spent-together](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/2409-count-days-spent-together) |
 ## Array
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0018-4sum) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
