@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0018-4sum) |
 | [0055-jump-game](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0056-merge-intervals) |
 | [3364-minimum-positive-sum-subarray](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/3364-minimum-positive-sum-subarray) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0056-merge-intervals) |
 ## Quicksort
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/3364-minimum-positive-sum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
