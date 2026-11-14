@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0018-4sum) |
+| [0045-jump-game-ii](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0056-merge-intervals) |
 | [3364-minimum-positive-sum-subarray](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/3364-minimum-positive-sum-subarray) |
@@ -50,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0055-jump-game) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0055-jump-game) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Bit Manipulation
