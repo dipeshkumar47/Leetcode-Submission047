@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0025-reverse-nodes-in-k-group) |
 ## Sliding Window
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/dipeshkumar47/Leetcode-Submission047/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
