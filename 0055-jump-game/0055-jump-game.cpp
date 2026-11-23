@@ -1,17 +1,21 @@
 class Solution {
-public:
-    bool canJump(vector<int>& nums) {
-        int maxReachableIndex = 0;
+ public:
+  bool canJump(vector<int>& nums) {
 
-        for (int currentIndex = 0; currentIndex < nums.size(); ++currentIndex) {
-    
-            if (maxReachableIndex < currentIndex) {
-                return false;
-            }
-        
-            maxReachableIndex = max(maxReachableIndex, currentIndex + nums[currentIndex]);
-        }
-        
-        return true;
+    // int i = 0;
+
+    // for(int reach = 0; i <= nums.size() && i <= reach; i++){
+    //     reach = max(reach, i + nums[i]);
+    // }
+
+    // return i == nums.size();
+
+    int i = 0;
+
+    for(int reach = 0; i < nums.size() && i <= reach; i++){
+        reach  = max(reach, i + nums[i]);
     }
+
+    return i == nums.size();
+  }
 };
